@@ -1,0 +1,5 @@
+In the Arduino library manager, search for:
+
+Accelerometer
+Adafruit MMA8451 
+
